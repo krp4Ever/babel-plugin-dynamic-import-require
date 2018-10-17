@@ -1,4 +1,4 @@
-# babel-plugin-dynamic-import-amd
+# babel-plugin-dynamic-import-require
 
 Babel plugin to transpile `import()` to `require`, for AMD module loaders
 
